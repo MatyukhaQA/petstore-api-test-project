@@ -216,7 +216,7 @@ python-versions = "*"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "0bccec33875be45921c02d0d97d370059567d38a5456c2520cc17edb08049d7c"
+content-hash = "c70f656d8bcecb919d3d8f03d9cff45fa0216017a0fa1b0f0ec64df0ed74985f"
 
 [metadata.files]
 allure-pytest = [
