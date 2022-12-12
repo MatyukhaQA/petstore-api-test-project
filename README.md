@@ -25,7 +25,7 @@
 
 ### Окно с кейсами
 <p align="center">
-  <img src="resources/images/suites.png" alt="Allure report"/>
+  <img src="resources/images/Suites.png" alt="Allure report"/>
 </p>
 
 ## Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/1746/dashboards)
