@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 ID = os.getenv('ID')
-URL = os.getenv('URL')
 
 create_pet_data = {
     "id": ID,
