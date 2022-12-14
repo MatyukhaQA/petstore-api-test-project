@@ -32,7 +32,7 @@
 
 ### Тест-кейсы
 <p align="center">
-  <img src="resources/images/Suites.png" alt="Allure TestOps"/>
+  <img src="resources/images/Launches.png" alt="Allure TestOps"/>
 </p>
 
 ### Дашборд
