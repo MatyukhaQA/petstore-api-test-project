@@ -43,6 +43,7 @@ pet_status_schema = Schema(
   }
 ]
 )
+
 delete_pet_schema = Schema(
     {
       "code": int,
